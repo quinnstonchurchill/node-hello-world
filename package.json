@@ -1,0 +1,11 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:quinnstonchurchill/node-hello-world.git",
+  "author": "Quinn Pruitt <qpruitt93@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
